@@ -1,0 +1,46 @@
+/* Geral */
+h1, h2, h2, h3, h4, h5{
+    line-height: 1.2;
+} 
+
+p{
+    color: silver;    
+}
+
+.navbar{
+    background-color: darkgreen;
+}
+
+/* Banner */
+.site-banner{
+    color: white;
+}
+
+#banner{
+    background-color: whitesmoke;
+    color: darkgreen;
+    padding: 50px 0 10px 0;
+}
+
+#banner img{
+    width: 100%;    
+}
+
+.btn-banner{
+    margin: 8% 3% 5% 0;
+}
+
+/* Features */
+#features{
+    padding: 5% 5%;
+}
+
+.feature-box{
+    text-align: center;
+    padding: 3%;
+}
+
+.icon{
+    color: whitesmoke;
+    margin-bottom: 15px;
+}
